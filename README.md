@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm SivaKumar</h1>
-<h3 align="center">A passionate Devops Enginner from India</h3>
+<h3 align="center">A passionate Devops Enginner </h3>
 
 - 🌱 I’m currently learning **Azure, K8s**
 
